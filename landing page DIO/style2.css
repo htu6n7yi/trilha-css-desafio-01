@@ -1,0 +1,150 @@
+
+.logo {
+    background-image:  url('https://github.com/digitalinnovationone/trilha-css-desafio-01/blob/main/assets/images/logo.png?raw=true');
+    width: auto; 
+    height: 300px; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    }
+
+
+#texto1 {
+    text-align: center; 
+    color: white;
+    }
+
+
+h1 {
+    color:  rgba(88, 138, 247, 0.9); 
+    font-size: 220%;
+    }  
+
+
+button {
+    border: 3px solid  rgba(88, 138, 247, 0.9); 
+    width: 280px;
+    height: 40px;
+    background: transparent ; 
+    color: rgba(88, 138, 247, 0.9);
+    font-size: large;
+    }
+
+
+.banner {
+    width: auto; 
+    height: 630px; 
+    border-bottom: 2px solid  rgba(88, 138, 247, 0.9);
+    }
+
+
+#banner3 {
+    background-image: url('https://github.com/digitalinnovationone/trilha-css-desafio-01/blob/main/assets/images/banner.png?raw=true');   
+    background-blend-mode: inherit ; 
+    z-index: -1; 
+    background-size: 100%; 
+    background-repeat: no-repeat;
+    height: 630px;
+    }
+
+
+.course-content {
+    background:  rgba(15, 14, 14, 1) ;
+    }
+
+
+h2 {
+    text-align: center; 
+    color:  rgba(88, 138, 247, 0.9); 
+    font-size: 240%;
+    }
+
+
+.modulo {
+    text-align: center;
+    background:  rgba(15, 14, 14, 1) ; 
+    color: white;
+    }
+
+
+.module {
+    text-align: center; 
+    border: 2px solid rgba(88, 138, 247, 0.9); 
+    width: 430px; 
+    height: 40px;
+    background:  rgba(15, 14, 14, 1) ; 
+    border-radius: 20px 20px ; 
+    line-height: 20px ;
+    margin: auto;
+    display: flexbox; 
+    color: white; 
+    line-height: 250%; 
+    }
+
+
+span {
+    color: rgba(88, 138, 247, 0.9); 
+    }
+
+
+.module-list {
+    object-position: center; 
+    text-align: center;
+    }
+
+
+#part2 {
+    width: auto; 
+    height: 250px;  
+    border-bottom: 2px solid rgba(88, 138, 247, 0.9); 
+    background: black; 
+    margin: 0%;
+    }
+
+
+#transform-world {
+    width: auto; 
+    height: 330px; 
+    text-align: left; 
+    background-image: url('https://github.com/digitalinnovationone/trilha-css-desafio-01/blob/main/assets/images/woman-code.png?raw=true');
+    background-size: cover;
+    background-position-x: center; 
+    background-position-y: 40%; 
+    color: white; border-botto: 2px solid  rgba(88, 138, 247, 0.9);
+    font-size: 250%; 
+    line-height: 65px; 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 2px 2px 5px rgb(69, 69, 185); 
+    padding-top: 40px;
+    padding-left: 160px; 
+    text-transform: lowercase;
+    background-attachment: fixed;
+    }
+
+
+#professional-challenges {
+    background-image: url(https://github.com/digitalinnovationone/trilha-css-desafio-01/blob/main/assets/images/professional-challenges.png?raw=true);
+    width: auto;
+    height: 780px; 
+    background-repeat: no-repeat; 
+    background-position: center; 
+    background-position-y: 130px; 
+    text-align: center; 
+    color: white;
+    background-color: rgba(15, 14, 14, 1); 
+    border: 2px solid  rgba(88, 138, 247, 0.9);
+    }
+
+
+.dio-logo {
+    width: auto; 
+    height: 200px; 
+    background-image: linear-gradient( rgba(15, 14, 14, 1), rgb(5, 28, 44)) ; 
+    text-align: center;
+    color: white;
+    }
+
+
+main {
+    background-color: rgba(15, 14, 14, 1);
+    margin-top: -33px;
+    }
